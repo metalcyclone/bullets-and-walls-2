@@ -1,2 +1,2 @@
-# bullets-and-walls-2
-this is about bullets hitting a wall
+# p5.play-boilerplate
+Boiler plate for p5.play
